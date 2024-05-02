@@ -1,0 +1,1 @@
+print("primero colo colo, segundo francia")
